@@ -1,0 +1,5 @@
+@media screen and (max-width: 768px) {
+    #selfInfo-content-year {
+        width: 100% !important;
+    }
+}
